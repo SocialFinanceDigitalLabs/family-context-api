@@ -424,6 +424,7 @@ components:
 
     Contact:
       type: object
+      description: Generic object describing the contact information
       properties:
         name:
           type: string
